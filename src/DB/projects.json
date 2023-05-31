@@ -2117,5 +2117,23 @@
         "tech": ["React JS", "Node JS", "Express JS", "MongoDB", "Tailwind CSS"]
       }
     ]
+  },
+  {
+    "github_username": "NikhilCode12",
+    "Social_media": {
+      "gitHub": "https://github.com/NikhilCode12",
+      "LinkedIn": "https://linkedin.com/in/nikhil-sharma-41a287226",
+      "Instagram": "",
+      "YouTube": "",
+      "Twitter": "https://twitter.com/Sharma_Nikh12"
+    },
+    "Projects": [
+      {
+        "link": "https://nikhilcode12.github.io/ImgSplash/",
+        "title": "Image Splasher",
+        "description": "Image Splasher is a API based webpage that helps you search random images with extra plugins.",
+        "tech": ["HTML", "CSS", "Javascript", "Unsplash API"]
+      }
+    ]
   }
 ]
